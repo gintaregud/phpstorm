@@ -1,0 +1,31 @@
+/*body {
+  background-color: tomato;
+
+h1 {
+  text-align: center;
+  color: white;
+  border: 1px solid;
+    }
+
+}*/
+.button, li {
+  border-radius: 10px;
+  background-color: aliceblue;
+  text-align: center;
+  padding: 10px;
+  color: tomato; }
+
+nav {
+  background-color: #a1447c; }
+
+li {
+  display: inline-block;
+  background-color: yellow;
+  text-decoration: aquamarine; }
+  li:hover {
+    color: #6325d9;
+    background-color: lawngreen; }
+
+/*#*/
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,27 @@
+/*body {
+  background-color: tomato;
+
+h1 {
+  text-align: center;
+  color: white;
+  border: 1px solid;
+    }
+
+}*/
+@import 'var';
+@import 'components';
+nav{
+  background-color: #a1447c;
+}
+li{
+  display: inline-block;
+  background-color: $aColor;
+  @extend .button;
+  text-decoration: aquamarine;
+  &:hover{
+    color: #6325d9;
+    background-color: lawngreen;
+    }
+  }
+
+/*#*/
